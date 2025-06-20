@@ -21,3 +21,4 @@ For researchers, engineers, and ethicists in AI safety: you are invited to fork,
 ## Contact
 
 **velynnox@gmail.com**
+📎 [Cover Letter](./cover_letter.md)
